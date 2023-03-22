@@ -1,0 +1,13 @@
+label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+  }
+  input[type="number"],
+  select {
+    margin-bottom: 10px;
+    position: center;
+
+    
+  }
+  
